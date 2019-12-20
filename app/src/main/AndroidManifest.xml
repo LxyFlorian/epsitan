@@ -18,4 +18,7 @@
         </activity>
     </application>
 
+    <!-- Pour demander à l'utilisateur la permission d'accéder à Internet. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
 </manifest>
